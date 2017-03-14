@@ -24,8 +24,6 @@ public class DBAccess {
 
 	}
 	
-	abstract class Abstract{
-		
-	}
+	abstract class Abstract{}
 
 }
