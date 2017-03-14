@@ -20,6 +20,8 @@ public class DBAccess {
 		}catch(Exception ex){
 			con.rollback();
 			ex.printStackTrace();
+		}finally{
+			
 		}
 
 	}
